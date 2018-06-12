@@ -48,7 +48,9 @@ Standalone: https://regensburg.freifunk.net/meshviewer/
 ## Dependencies
 
 - yarn (npm fallback)
-- grunt-cli
+- (not any more: grunt-cli)
+- gulp
+
 
 ### Installing dependencies
 
